@@ -1,0 +1,56 @@
+body { padding: 10px; margin: 10px; background: #fff; font-family: helvetica; }
+span { margin: 3px; }
+span:hover { opacity: .5; }
+
+.smallCLoud { position: absolute; overflow: auto; margin: auto; 
+			top: 20%; bottom: 20%; left: 0; right: 0; width: 60%; }
+.bigCLoud { position: absolute; overflow: auto; margin: auto;
+			top: 10%; bottom: 10%; left: 0; right: 0; width: 80%; }
+.cbox { text-align: center; }
+
+
+.col1 { color: #0099ff; }
+.col2 { color: #0459af; }
+.col3 { color: #ccaaff; }
+.col4 { color: #00cccc; }
+.col5 { color: #99ebff; }
+
+.f11 { font-size: 11pt; line-height: 11pt; }
+.f12 { font-size: 12pt; line-height: 12pt; }
+.f13 { font-size: 13pt; line-height: 13pt; }
+.f14 { font-size: 14pt; line-height: 14pt; }
+.f15 { font-size: 15pt; line-height: 15pt; }
+.f16 { font-size: 16pt; line-height: 16pt; }
+.f17 { font-size: 17pt; line-height: 17pt; }
+.f18 { font-size: 18pt; line-height: 18pt; }
+.f19 { font-size: 19pt; line-height: 19pt; }
+.f20 { font-size: 20pt; line-height: 20pt; }
+.f21 { font-size: 21pt; line-height: 21pt; }
+.f22 { font-size: 22pt; line-height: 22pt; }
+.f23 { font-size: 23pt; line-height: 23pt; }
+.f24 { font-size: 24pt; line-height: 24pt; }
+.f25 { font-size: 25pt; line-height: 25pt; }
+.f26 { font-size: 26pt; line-height: 26pt; }
+.f27 { font-size: 27pt; line-height: 27pt; }
+.f28 { font-size: 28pt; line-height: 28pt; }
+.f29 { font-size: 29pt; line-height: 29pt; }
+.f30 { font-size: 30pt; line-height: 30pt; }
+.f31 { font-size: 31pt; line-height: 31pt; }
+.f32 { font-size: 32pt; line-height: 32pt; }
+.f33 { font-size: 33pt; line-height: 33pt; }
+.f34 { font-size: 34pt; line-height: 34pt; }
+.f35 { font-size: 35pt; line-height: 35pt; }
+.f36 { font-size: 36pt; line-height: 36pt; }
+.f37 { font-size: 37pt; line-height: 37pt; }
+.f38 { font-size: 38pt; line-height: 38pt; }
+.f39 { font-size: 39pt; line-height: 39pt; }
+.f40 { font-size: 40pt; line-height: 40pt; }
+.f41 { font-size: 41pt; line-height: 41pt; }
+.f42 { font-size: 42pt; line-height: 42pt; }
+.f43 { font-size: 43pt; line-height: 43pt; }
+.f44 { font-size: 44pt; line-height: 44pt; }
+.f45 { font-size: 45pt; line-height: 45pt; }
+.f46 { font-size: 46pt; line-height: 46pt; }
+.f47 { font-size: 47pt; line-height: 47pt; }
+.f48 { font-size: 48pt; line-height: 48pt; }
+
